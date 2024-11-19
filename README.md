@@ -16,7 +16,7 @@ Data is not just numbers; it’s the key to smarter decisions.
 | Python | SQL | R |
 
 ### **Frameworks and Libraries for Python**  
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) |  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+| ![Pandas](https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png&color=000000) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) |  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Scikit-learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) |
 |:---:|:---:|:---:|:---:|
 | Pandas | NumPy | Seaborn | Scikit-learn |
 
@@ -26,9 +26,14 @@ Data is not just numbers; it’s the key to smarter decisions.
 | Tableau | Power BI | Excel | MySQL | PostgreSQL | SQLite |
 
 ### **Additional Tools**  
-| ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| ![Anaconda](https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg) | ![Jupyter](https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg) | ![Streamlit](https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg) |
 |:---:|:---:|:---:|
 | Anaconda | Jupyter | Streamlit |
+
+### **OS**  
+| ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | ![Windows](https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg) |
+|:---:|:---:|
+| Linux | Windows |
 
 ---
 
